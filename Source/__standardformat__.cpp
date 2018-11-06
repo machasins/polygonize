@@ -3,9 +3,9 @@
 \file   .cpp
 \author Michael Kinyon
 \par    Project: Polygonize
-\date   date
+\date   
 \brief
-	A brief summary of the file.
+	
 */
 /******************************************************************************/
 
